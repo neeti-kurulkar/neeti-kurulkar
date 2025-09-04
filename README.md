@@ -31,7 +31,6 @@
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" alt="LangChain" />
   <img src="https://avatars.githubusercontent.com/u/139587009?s=200&v=4" height="40" alt="AutoGen" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" height="40" alt="IBM Cloud" />
 </div>
 
 ---
