@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Neeti Kurulkar</h1>
+<h1 align="center">Neeti Kurulkar</h1>
 <h3 align="center">AI Enthusiast · Technical Head (ACM Student Chapter) · Hackathon Winner</h3>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Final Year **Computer Engineering Student**  
-- ⚡ **Technical Head** at ACM Student Chapter  
-- 🤖 Passionate about **Generative AI** and building impactful solutions  
-- 🏆 Strong record in **hackathons & collaborative problem-solving**  
+- Final Year **Computer Engineering Student**  
+- **Technical Head** at ACM Student Chapter  
+- Passionate about **Generative AI** and building impactful solutions  
+- Strong record in **hackathons & collaborative problem-solving**  
 
 ### 🏅 Achievements
-- 🥇 **Winner** — The Better Hack Pune 2025  
-- 🥇 **Winner** — Pro-Start 2024  
-- 🔟 **Top 10** — IBM SkillsBuild Hackathon Maharashtra 2025  
-- 🎯 **Finalist** — Smart India Hackathon (SIH) 2024  
+- **Winner** — The Better Hack Pune 2025  
+- **Winner** — Pro-Start 2024  
+- **Top 10** — IBM SkillsBuild Hackathon Maharashtra 2025  
+- **Finalist** — Smart India Hackathon (SIH) 2024  
 
 ---
 
