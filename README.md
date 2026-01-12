@@ -1,59 +1,51 @@
 <h1 align="center">Neeti Kurulkar</h1>
-<h3 align="center">Intern @Outoftheblue-ai · Technical Head (ACM Student Chapter) · Hackathon Winner</h3>
-
----
-
-## 👩‍💻 About Me
-- Final Year **Computer Engineering Student**  
-- **Technical Head** at ACM Student Chapter  
-- Passionate about **Generative AI** and building impactful solutions  
-- Strong record in **hackathons & collaborative problem-solving**  
-
-### 🏅 Achievements
-- **Winner** — The Better Hack Pune 2025  
-- **Winner** — Pro-Start 2024  
-- **Top 10** — IBM SkillsBuild Hackathon Maharashtra 2025  
-- **Finalist** — Smart India Hackathon (SIH) 2024  
-
----
-
-## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" alt="LangChain" />
-  <img src="https://avatars.githubusercontent.com/u/139587009?s=200&v=4" height="40" alt="AutoGen" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-</div>
-
----
-
-## 💼 Featured Projects
-- **Finance Assistant** — Extracting structured insights from financial documents with **Text-to-SQL**.  
-- **Legacy Code Migration Assistant** — AI-driven refactoring and modernization of legacy codebases.  
-- **Disaster Resilience Platform** — AI/ML-powered decision support for crisis management & recovery.  
-- **Cold Email Generator** — Personalized outreach emails with **LangChain + RAG**.  
-
----
-
-## 📫 Contact
 <p align="center">
-  <a href="mailto:neetikurulkar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/neeti-kurulkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a>
-  <a href="https://neeti-kurulkar.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/>
-  </a>
+Full-Stack Developer Intern · Generative AI Engineer · Hackathon Winner
 </p>
 
 ---
+
+### About
+Final-year Computer Engineering student focused on building **AI-driven, production-ready systems**.  
+Currently serving as **Technical Head** at the ACM Student Chapter and interning at **Outoftheblue-AI**.
+
+I enjoy working at the intersection of **LLMs, backend systems, and real-world problem solving**.
+
+---
+
+### Highlights
+- Winner — The Better Hack Pune (2025)  
+- Winner — Pro-Start (2024)  
+- Top 10 — IBM SkillsBuild Hackathon, Maharashtra  
+- Finalist — Smart India Hackathon (2024)
+
+---
+
+### Tech
+<p>
+Python · JavaScript · C++ · Java  
+FastAPI · React · LangChain · AutoGen  
+PostgreSQL · MongoDB · MySQL · Git
+</p>
+
+---
+
+### Selected Work
+**Finance Assistant**  
+LLM-powered system for extracting structured insights from financial documents using Text-to-SQL.
+
+**Legacy Code Migration Assistant**  
+AI-assisted refactoring and modernization of legacy applications.
+
+**Disaster Resilience Platform**  
+ML-driven decision support for crisis response and recovery.
+
+**Cold Email Generator**  
+Personalized outreach using LangChain with RAG pipelines.
+
+---
+
+### Contact
+- Email: neetikurulkar@gmail.com  
+- LinkedIn: linkedin.com/in/neeti-kurulkar  
+- Portfolio: neeti-kurulkar.github.io
