@@ -1,51 +1,78 @@
-<h1 align="center">Neeti Kurulkar</h1>
+<h1 align="center">
+  Neeti Kurulkar
+</h1>
+
 <p align="center">
-Full-Stack Developer Intern · Generative AI Engineer · Hackathon Winner
+  <span style="color:#7c7cf4;">Full Stack Developer Intern</span> · 
+  <span style="color:#5aa9e6;">Generative AI</span> · 
+  Hackathon Winner
 </p>
 
 ---
 
-### About
-Final-year Computer Engineering student focused on building **AI-driven, production-ready systems**.  
-Currently serving as **Technical Head** at the ACM Student Chapter and interning at **Outoftheblue-AI**.
+### About Me
+Final-year **Computer Engineering student** with a strong interest in  
+<span style="color:#7c7cf4;"><b>AI systems, backend engineering, and real-world problem solving</b></span>.
 
-I enjoy working at the intersection of **LLMs, backend systems, and real-world problem solving**.
+Currently:
+- Intern @ <b>Outoftheblue-AI</b>  
+- Technical Head — ACM Student Chapter  
 
 ---
 
-### Highlights
-- Winner — The Better Hack Pune (2025)  
-- Winner — Pro-Start (2024)  
+### Achievements
+- **Winner** — The Better Hack, Pune (2025) 
 - Top 10 — IBM SkillsBuild Hackathon, Maharashtra  
 - Finalist — Smart India Hackathon (2024)
 
 ---
 
-### Tech
-<p>
-Python · JavaScript · C++ · Java  
-FastAPI · React · LangChain · AutoGen  
-PostgreSQL · MongoDB · MySQL · Git
+### Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28"/>
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="26"/>
+  <img src="https://avatars.githubusercontent.com/u/139587009?s=200&v=4" height="26"/>
 </p>
 
 ---
 
-### Selected Work
+### Featured Projects
 **Finance Assistant**  
-LLM-powered system for extracting structured insights from financial documents using Text-to-SQL.
+Structured insight extraction from financial documents using <span style="color:#5aa9e6;">Text-to-SQL</span>.
 
 **Legacy Code Migration Assistant**  
-AI-assisted refactoring and modernization of legacy applications.
+AI-driven refactoring and modernization of legacy systems.
 
 **Disaster Resilience Platform**  
-ML-driven decision support for crisis response and recovery.
+ML-powered decision support for crisis management.
 
 **Cold Email Generator**  
-Personalized outreach using LangChain with RAG pipelines.
+Personalized outreach using <span style="color:#7c7cf4;">LangChain + RAG</span>.
 
 ---
 
 ### Contact
-- Email: neetikurulkar@gmail.com  
-- LinkedIn: linkedin.com/in/neeti-kurulkar  
-- Portfolio: neeti-kurulkar.github.io
+<p align="center">
+  <a href="mailto:neetikurulkar@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="26"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/neeti-kurulkar/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="26"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://neeti-kurulkar.github.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="26"/>
+  </a>
+</p>
