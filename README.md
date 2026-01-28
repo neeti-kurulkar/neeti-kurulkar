@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <span style="color:#7c7cf4;">Full Stack Developer Intern</span> · 
+  <span style="color:#7c7cf4;">Intern @Out of The Blue, Inc</span> · 
   <span style="color:#5aa9e6;">Generative AI</span> · 
   Hackathon Winner
 </p>
