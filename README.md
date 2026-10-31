@@ -72,18 +72,21 @@ I'm doing an **MSc in Artificial Intelligence at Plaksha University**. Most of m
 
 ## Toolbox
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,java,cpp,react,nodejs,fastapi,pytorch,tensorflow,sklearn,postgres,mongodb,sqlite,docker,kubernetes,aws,azure,git&theme=dark&perline=9" alt="Python, JavaScript, Java, C++, React, Node, FastAPI, PyTorch, TensorFlow, scikit-learn, PostgreSQL, MongoDB, SQLite, Docker, Kubernetes, AWS, Azure, Git" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,react,postgres,mongodb,docker,kubernetes,aws,git&theme=dark&perline=12" height="38" alt="Python, PyTorch, TensorFlow, scikit-learn, FastAPI, React, PostgreSQL, MongoDB, Docker, Kubernetes, AWS, Git" />
 
-Also: LangChain · LangGraph · Autogen · ChromaDB · pandas · Pydantic · Databricks · IBM Cloud
+<sub>Also: LangChain · LangGraph · Autogen · ChromaDB · pandas · Pydantic · Java · C++ · Node · SQLite · Azure · Databricks</sub>
 
 ## Wins
 
-| | |
-|---|---|
-| 🥇 **1st** | The Better Hack 2025, city-wide hackathon, Pune |
-| 🏅 **Top 10** | IBM SkillsBuild Hackathon 2025, of 70+ entries, state level |
-| 🏅 **6th** | Smart India Hackathon 2024, of 500+ entries, EdTech |
+**1st** · The Better Hack 2025 · city-wide hackathon, Pune<br />
+**Top 10** · IBM SkillsBuild Hackathon 2025 · of 70+ entries, state level<br />
+**6th** · Smart India Hackathon 2024 · of 500+ entries, EdTech
+
+## On GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=neeti-kurulkar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b0e13&title_color=6fa6e0&icon_color=3f7fd0&text_color=c9d1d9&hide_rank=true" alt="Neeti's GitHub stats" />
+  <img height="150" src="https://streak-stats.demolab.com?user=neeti-kurulkar&hide_border=true&background=0b0e13&ring=3f7fd0&fire=6fa6e0&currStreakLabel=6fa6e0&sideLabels=c9d1d9&currStreakNum=e9eef4&sideNums=e9eef4&dates=7d8796&stroke=1d242e" alt="Neeti's contribution streak" />
+</p>
 
 <p align="center"><sub>There's a ghost on <a href="https://neeti-kurulkar.github.io/">my site</a>. Go say hi 👻</sub></p>
