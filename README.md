@@ -85,7 +85,7 @@ I'm doing an **MSc in Artificial Intelligence at Plaksha University**. Most of m
 ## On GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=neeti-kurulkar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b0e13&title_color=6fa6e0&icon_color=3f7fd0&text_color=c9d1d9&hide_rank=true" alt="Neeti's GitHub stats" />
+  <img height="150" src="./stats.svg" alt="Neeti's GitHub stats" />
   <img height="150" src="https://streak-stats.demolab.com?user=neeti-kurulkar&hide_border=true&background=0b0e13&ring=3f7fd0&fire=6fa6e0&currStreakLabel=6fa6e0&sideLabels=c9d1d9&currStreakNum=e9eef4&sideNums=e9eef4&dates=7d8796&stroke=1d242e" alt="Neeti's contribution streak" />
 </p>
 
